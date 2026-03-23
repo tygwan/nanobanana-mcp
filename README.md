@@ -80,6 +80,9 @@ Now make the colors more vibrant and add a subtle gradient
 
 Part of the [stitchkit](https://github.com/tygwan/stitchkit) ecosystem --- a Claude Code plugin that combines Google Stitch UI design generation with Gemini image generation via nanobanana.
 
+- [stitchkit](https://github.com/tygwan/stitchkit) — Claude Code plugin for Stitch + Figma + NanoBanana
+- [awesome-stitch-design](https://github.com/tygwan/awesome-stitch-design) — Curated collection of 44+ Stitch design prompts with gallery
+
 ## Acknowledgments
 
 Inspired by the original [nanobanana-mcp-server](https://github.com/zhongweili/nanobanana-mcp-server) by zhongweili.
